@@ -18,14 +18,15 @@ I'm a passionate **web developer** with a strong background in both **frontend**
 
 ### 🗄️ Databases
 - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) **MongoDB**: A flexible and scalable NoSQL database.
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KhaMinh0709&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KhaMinh0709&theme=dark&hide_border=false)<br/>
+
 ### 🛠️ Tools & Environment
 - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) **IntelliJ IDEA**: A powerful IDE for Java development.
 - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) **Visual Studio Code**: My primary development environment for front-end projects.
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) **Postman**: Testing and developing APIs.
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) **Git**: Version control and team collaboration.
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) **GitHub**: Storing and sharing source code.
+- # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nguyenquochuyhi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nguyenquochuyhi&theme=dark&hide_border=false)<br/>
 ## 📫 How to reach me
 - **Email**: kenhuynguyen2003@gmail.com
